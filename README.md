@@ -1,6 +1,6 @@
 # Hello everyone and my name is kjfreidhof 
 
-# and i have created this power bash script that is 
+# and i have created this powerfull bash script 
 
 
 
